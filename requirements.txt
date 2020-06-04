@@ -10,7 +10,7 @@ etelemetry==0.2.1
 filelock==3.0.12
 fitz==0.0.1.dev2
 flake8==3.8.1
-httplib2==0.17.3
+httplib2==0.18.0
 idna==2.9
 importlib-metadata==1.6.0
 isodate==0.6.0
