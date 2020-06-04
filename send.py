@@ -18,17 +18,6 @@ for payload in payloads:
     sock.sendto(payload, ('127.0.0.1', 1337))
     time.sleep(0.001)
 
-# p = []
-# for payload in payloads: 
-#     p.append(payload)
-
-# random.shuffle(p)
-    
-
-# for payload in p:
-#     sock.sendto(payload, ('127.0.0.1', 1337))
-#     time.sleep(0.001)
-
 print (count)
 
 sock.close()
